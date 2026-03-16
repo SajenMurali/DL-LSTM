@@ -31,11 +31,6 @@ Evaluate model accuracy, plot loss curves, and visualize predictions on a sample
 
 
 ## PROGRAM
-
-### Name: 212224230199
-
-### Register Number: 212224230199
-
 ```python
 import pandas as pd
 import torch
